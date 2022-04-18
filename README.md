@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-So this is how this works lol. 
+
+My main tech stacks:
+- C++, Dlib
+- Python, TensorFlow, PyTorch, Numpy, Pandas
+- JavaScript, TypeScript, React, Angular, Nest.js
+- Raspberry Pi 4

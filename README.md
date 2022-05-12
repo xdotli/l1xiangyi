@@ -21,6 +21,12 @@ My main tech stacks:
 - JavaScript, TypeScript, React, Angular, Nest.js
 - Raspberry Pi 4
 
+Technologies I'm learning:
+- Golang
+- Cypress, Jest
+- The EpicReact course, the TestingJavaScript course
+- All kinds of GANs
+
 Courses I take in term 2022 spring:
 - MAT1002 Calculus II
 - STA2002 Statistics and Probability II

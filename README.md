@@ -20,3 +20,11 @@ My main tech stacks:
 - Python, TensorFlow, PyTorch, Numpy, Pandas
 - JavaScript, TypeScript, React, Angular, Nest.js
 - Raspberry Pi 4
+
+Courses I take in term 2022 spring:
+- MAT1002 Calculus II
+- STA2002 Statistics and Probability II
+- DDA2020 Machine Learning
+- CSC4008 Techniques in Data Mining
+- CSC4001 Software Engineering
+- CSC3050 Computer Architecture

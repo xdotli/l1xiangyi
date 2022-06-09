@@ -27,10 +27,4 @@ Technologies I'm learning:
 - The EpicReact course, the TestingJavaScript course
 - All kinds of GANs
 
-Courses I take in term 2022 spring:
-- MAT1002 Calculus II
-- STA2002 Statistics and Probability II
-- DDA2020 Machine Learning
-- CSC4008 Techniques in Data Mining
-- CSC4001 Software Engineering
-- CSC3050 Computer Architecture
+I'm currently working at Red Hat as a Software Quality Engineer Intern, responsible for developing automated tests and UI tools. 

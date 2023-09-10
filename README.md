@@ -8,4 +8,6 @@
 - **University of Illinois, Urbana Champaign** (2023.8-2025.5, expected): Computer Science major, with a Master of Science
 - **The Chinese University of Hong Kong, Shenzhen** (2019.8-2023.5): Computer Science & Engineer major, with a Bachlor of Engineering.
 
+Attending Tapia, GHC, and TechCrunch Disrupt this September. 
+
 page inspiration from [Jacket](https://github.com/PRESIDENT810)

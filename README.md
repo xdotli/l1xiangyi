@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xiangyi</h1>
 <p align="left">
 </p>
+Building a startup now. 
 
 ## About me
 - **venice/openSDKs** (2023.11 - present): making SDKs easier for TypeScript devs. 

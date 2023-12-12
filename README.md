@@ -11,5 +11,3 @@ Building a startup now.
 - **The Chinese University of Hong Kong, Shenzhen** (2019.8-2023.5): Computer Science & Engineer major, with a Bachlor of Engineering.
 
 https://xiangyi.li/
-
-page inspiration from [Jacket](https://github.com/PRESIDENT810)
